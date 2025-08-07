@@ -23,6 +23,13 @@ This tool allows you to encrypt and decrypt images using a secure, reversible pi
    ```sh
    pip install -r requirements.txt
    ```
+## Setup
+1. Clone the repository: `git clone https://github.com/yourusername/PRODIGY_CS_02.git`
+2. Navigate to the directory: `cd PRODIGY_CS_02`
+3. Create a virtual environment: `python -m venv venv`
+4. Activate it:
+   - Windows: `venv\Scripts\activate`
+   - Mac/Linux: `source venv/bin/activate`
 
 ## Usage
 1. Run the tool:
@@ -57,4 +64,5 @@ This tool allows you to encrypt and decrypt images using a secure, reversible pi
 - [x] **Well-documented usage and workflow**
 
 ## License
+
 This project is provided for educational purposes.
